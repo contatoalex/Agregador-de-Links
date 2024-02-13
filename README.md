@@ -3,4 +3,5 @@
 - HTML
 - CSS
 - JavaScript
-- -Git e Github
+- Git e Github
+- Figma
